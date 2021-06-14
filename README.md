@@ -4,7 +4,7 @@ Factory for making pacmen You are given a starter.html code. When button "make o
 How To
 Load the starter.html page. From here you can interact with the game by adding Pacmen and starting the game. Future improvements include adding css grid structure to move the PacMen along a line to "consume" fruits. It also includes PacMen appearing on several grid rows to move along for this purpose.
 
-
+Futre improvements would be adding ghost or food to eat. Adding a board to move around on.
 
 License
 MIT License
