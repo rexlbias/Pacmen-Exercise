@@ -6,4 +6,6 @@ to position the new pacman image and add it to the "game" div. It is then added 
 You also need to make each pacman bounce off any wall it hits. 
 Start by getting at least one pacman positioned and viewable. 
 
+Future improvements would include making the pacmen eat food or chase ghost. Adding ghost images.
+
 <img src="PacMan1.png">
